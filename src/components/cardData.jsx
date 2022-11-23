@@ -77,7 +77,7 @@ export const CardData = [
     imge: "https://stylesatlife.com/wp-content/uploads/2019/05/Full-Sleeved-Red-Plain-Shirt-for-Women.jpg",
     price: "550",
     categary: "shirt",
-    featured: true,
+    featured: false,
   },
   {
     name: "Children Shirt",
