@@ -102,7 +102,7 @@ export const CardData = [
     imge: "https://m.media-amazon.com/images/I/51DXEXhVl0L._UL1000_.jpg",
     price: "999",
     categary: "shirt",
-    featured: true,
+    featured: false,
   },
   {
     name: "Kid t-shirt",
